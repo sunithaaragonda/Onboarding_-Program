@@ -1,6 +1,6 @@
 package corejava;
 
-public class task01_HometaskVariable {
+public class Task01_HometaskVariable_01 {
 
 	public static void main(String[] args) {
 		 

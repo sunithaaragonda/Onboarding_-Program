@@ -1,7 +1,7 @@
 package corejava;
 import java.util.HashSet;
 
-public class FindDuplicates {
+public class Task04_HometaskString_01 {
     public static void main(String[] args) {
         String str = "programming";  // Example input
         findDuplicates(str);
